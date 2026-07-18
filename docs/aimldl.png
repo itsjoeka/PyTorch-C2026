@@ -1,0 +1,12 @@
+John McCarthy (1956) - first talked about AI during a conference that he organized
+Alan Turing Mathison - Used AI to build Bombe Machines that deciphered Nazi coded messages from the Enigma machine during world war ii
+	* AI finds it difficult to solve problems that are intuitive to humans: 
+		- telling whether a friend is angry or not
+		- differentiating between items
+		- taking notes
+Symbolic AI - AI systems with hard coded rules used to solve well-defined tasks and complex problems
+	- Couldn't do
+		- image recognition, object detection, object segmentation, language translation, natural language processing tasks 
+			ML and DL were designed to solve these tasks
+			
+AI --> ML --> DL
