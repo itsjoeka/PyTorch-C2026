@@ -10,3 +10,23 @@ Symbolic AI - AI systems with hard coded rules used to solve well-defined tasks 
 			ML and DL were designed to solve these tasks
 			
 AI --> ML --> DL
+	AI: entirety
+	ML: learn data and answers to formulate rules for complex tasks
+	DL: good at working with high dimensional data (where feature engineering using ml approaches seems impossible)
+
+DEEP LEARNING
+	Traditional ML: handwritten feature extraction to train algorithms
+	DL: modern techniques for automatic feature extraction
+	
+- In deep learning, each layer performs a certain task
+	For a face recognition task
+		- The first layer detects edges
+		- the second layer detects shapes like nose and ears
+		- The final layer detects face or complex objects
+
+Deep learning and Neural Networks are used interchangeably
+Neural Networks were inspired by the working of the human brain
+
+DATA is the most important ingredient in the success of deep learning
+
+
