@@ -33,13 +33,21 @@ DATA is the most important ingredient in the success of deep learning
 The advent of open source Deep Learning frameworks (e.g Theano, TensorFlow, PyTorch, Caffe2 etc) has made it easy to adopt deep learning, else:
 	- one would have been an expert in C++ or CUDA to implement DL
 		These frameworks has boosted the adoption of deep learning because they abstract away the underlying complications and allow us to focus on the applications
-		
+
+					
+					FRAMEWORK:
+					ARCHITECTURE:
+					ALGORITHM: 
 
 PyTorch
 This deep learning framework can be used for two different things:
 	- Replacing Numpy-like operations with GPU-accelerated operations
 	- Building deep neural networks
-
+- PyTorch is easy and simple to use. Uses dynamic computations as opposed to other frameworks that uses static computation graphs, giving it flexibility to build complex architectures
+	- Two Paradigms (computation graphs: foundational data structure in DL which is a visual map of mathematical operations, represented as a network of nodes and edges)
+		- Static Computation Graphs (defined-by-read):graph is compiled once before execution. The network structure is defined, compiled, and optimized before any data is processed
+		- Dynamic Computation Graphs (defined-by-run): graph is constructed from scratch during every forward pass. The network architecture is built on the fly during execution.
+			t
 
 
 
