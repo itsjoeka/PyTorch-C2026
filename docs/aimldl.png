@@ -28,5 +28,18 @@ Deep learning and Neural Networks are used interchangeably
 Neural Networks were inspired by the working of the human brain
 
 DATA is the most important ingredient in the success of deep learning
+	- MNIST, COCO, CIFAR, Kaggle etc
+
+The advent of open source Deep Learning frameworks (e.g Theano, TensorFlow, PyTorch, Caffe2 etc) has made it easy to adopt deep learning, else:
+	- one would have been an expert in C++ or CUDA to implement DL
+		These frameworks has boosted the adoption of deep learning because they abstract away the underlying complications and allow us to focus on the applications
+		
+
+PyTorch
+This deep learning framework can be used for two different things:
+	- Replacing Numpy-like operations with GPU-accelerated operations
+	- Building deep neural networks
+
+
 
 
